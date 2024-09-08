@@ -1,8 +1,8 @@
 # 9th-template
-9기 아카데미 프로젝트를 위한 템플릿입니다.
+9기 Kaggle 정복하기 프로젝트를 위한 템플릿입니다.
 
 ## 프로젝트 소개
-- 내용
+- 안녕하세요. 이번 스터디는 Data Scientist 로서 짧은 기간에 큰 성장을 이룰 수 있는 방법인 Kaggle에 대해 알아보고 실제로 프로젝트에 참여해 보고자 합니다.
 
 ## 팀 멤버
 |  | | | |
@@ -11,26 +11,19 @@
 |   <img src = "https://avatars.githubusercontent.com/u/60315070?s=400&u=778854dfa9e806ceb1bc3e8d6cf30634df316c15&v=4" width="128px;"/> <br/> [박상호](https://www.linkedin.com/in/sangho-park-4220aa22a/) (빌더) <br/> 성균관대학교<br/> 7기~ <br/> Bridging Causal Inference <br/> and Real-World Evidence: <br/> A Study of FDA <br/> and Other Regulatory Guidelines <br/> |  <img src = "https://private-user-images.githubusercontent.com/39010111/357014882-6a14a996-a5dd-44e4-952a-eb0c1ad46894.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNDc0NjAsIm5iZiI6MTcyNDI0NzE2MCwicGF0aCI6Ii8zOTAxMDExMS8zNTcwMTQ4ODItNmExNGE5OTYtYTVkZC00NGU0LTk1MmEtZWIwYzFhZDQ2ODk0LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyMVQxMzMyNDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00OTMwNjUzZDQ3NjdiOWM4NzdkYWVjNzJiMDMyMmY0ZWI3MzVkZmQ2ZGViMmQyYWRiNzY5ZDBiM2M1NTdiMmQyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qphkSHHm6PPUCLro0ZuIA4LB6Jb-2WA06DkFgzeJ2WA" width="128px;"/> <br/> [장형기](https://github.com/changh95) (빌더) <br/> StradVision <br/> 9기~ <br/> 스페셜한 Spatial AI <br/>|   <img src = "https://private-user-images.githubusercontent.com/25517592/357254816-2ba87504-48a7-4551-aeff-befcb609aa1d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNDc0NjAsIm5iZiI6MTcyNDI0NzE2MCwicGF0aCI6Ii8yNTUxNzU5Mi8zNTcyNTQ4MTYtMmJhODc1MDQtNDhhNy00NTUxLWFlZmYtYmVmY2I2MDlhYTFkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIxVDEzMzI0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg2OTE1YTM0NGFhODAyMjYzMWVmNjg5NTJlODFkZjZjZmUxYmI3Y2FhMDc0Njk4NDk1YTQ2MWQ2ZDI3NjcwYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XXZOovOvl8vPJCMiCCrZiNqirf82Naqe1QF5kml-UXw" width="128px;"/> <br/> [이경찬](https://github.com/kyeongchan92) (빌더) <br/> 하나투어 <br/> 6기~ <br/> 미정 <br/>|   <img src = "https://camo.githubusercontent.com/b7e93e8ef861fd7f229780b8b84bc2fa97f4141378d2b7ffacc0a20e3fece0b4/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f76322f43353630334151487971794d575964507853672f70726f66696c652d646973706c617970686f746f2d736872696e6b5f3830305f3830302f70726f66696c652d646973706c617970686f746f2d736872696e6b5f3830305f3830302f302f313539303136353936343831303f653d3137323937323830303026763d6265746126743d53674f5756746a5f6d7774595944636d3971586364793648673675534f4875475f4a7667395268754b374d" width="128px;"/> <br/> [박진호](https://www.linkedin.com/in/jinho-park-9010) (빌더) <br/> 현대자동차 <br/> 3기~ <br/> - <br/> |
 
 ## 프로젝트 목표
-1. 주요 추천 시스템 이론에 대한 구현 방식 이해(각 방식의 원리, 특징, 장단점 파악)
-2. 학습한 내용을 기반으로 실전 프로젝트에 적용: 추천시스템 구현 및 반영까지 
+1. Kaggle에 대해 알아보기
+2. 문제 해결 프로세스에 대해 알아보기
+3. 머신러닝 부터 딥러닝 까지 각종 프로젝트를 진행해보기
+4. 새로운 모델링 기법 트렌드를 배워보기
 
 ## 프로젝트 내용
-**Part 0. OT 및 스터디 목표 안내 (1주)**
-  - 자기소개 
-  - 진행일정 및 프로젝트 목표 공유
-
-**Part 1. OOO (4주) : 내용**
-  - 내용
-  - 내용
-
-**Part 2. 실전 적용 (8주)**
-  - 내용
-  - 내용
+image
+'머신러닝, 딥러닝 문제해결 전략' 책을 통해 Kaggle 에 입문해 보고자 합니다.
 
 ## 활동 기간
-- 날짜: 9-12월
-- 시간: 매주 오후 9-10시 (변동가능)
-- 장소: 온라인 디스코드
+날짜: 9월 11일(수) (일정은 변경 될 수 있으나, 매주 수요일 스터디 진행 예정입니다.)
+시간: 21시 30분
+장소: Discord (자세한 사항은 추후 공지)
 
 ## 스케쥴
 
