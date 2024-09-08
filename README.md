@@ -1,4 +1,4 @@
-# 9th-template
+# 9th-Kaggle 정복하기
 9기 Kaggle 정복하기 프로젝트를 위한 템플릿입니다.
 
 ## 프로젝트 소개
