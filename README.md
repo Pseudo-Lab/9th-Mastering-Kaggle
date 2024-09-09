@@ -7,8 +7,8 @@
 ## 팀 멤버
 | | | | | |
 |----|----|----|----|----|
-|![SJJ](https://github.com/user-attachments/assets/ff44e772-1a45-4f93-a32b-a6a9f85c15f7) <br/> [성정재](https://www.linkedin.com/in/%EC%A0%95%EC%9E%AC-%EC%84%B1-04b6a478?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBpbUoA1zRDSvf4tBIxFqrQ%3D%3D)(빌더) <br/>  HP <br/> 7기~ <br/> | 차봉준(러너)  |조성우(러너) | 박정은(러너) | ???(러너) |
-???(러너) | ???(러너)  | ???(러너)  | ???(러너)  | ???(러너) |
+|![SJJ](https://github.com/user-attachments/assets/ff44e772-1a45-4f93-a32b-a6a9f85c15f7) <br/> [성정재](https://www.linkedin.com/in/%EC%A0%95%EC%9E%AC-%EC%84%B1-04b6a478?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBpbUoA1zRDSvf4tBIxFqrQ%3D%3D)(빌더) <br/>  HP <br/> 7기~ <br/> | 차봉준(러너)  |조성우(러너) | 박정은(러너) | 김채윤(러너) |
+정수진(러너) | 전현지(러너)  | 김은지(러너)  | 신소윤(러너)  | 최우재(러너) |
 
 ## 프로젝트 목표
 - Kaggle에 대해 알아보기
