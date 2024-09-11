@@ -7,7 +7,7 @@
 ## 팀 멤버
 | | | | | |
 |----|----|----|----|----|
-|[성정재](https://www.linkedin.com/in/%EC%A0%95%EC%9E%AC-%EC%84%B1-04b6a478?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBpbUoA1zRDSvf4tBIxFqrQ%3D%3D)(빌더)| 차봉준(러너)  | 조성우(러너) |[박정은](https://www.linkedin.com/in/angelapje/)(러너)| 김채윤(러너) |
+|[성정재](https://www.linkedin.com/in/%EC%A0%95%EC%9E%AC-%EC%84%B1-04b6a478?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBpbUoA1zRDSvf4tBIxFqrQ%3D%3D)(빌더)| 차봉준(러너)  | 조성우(러너) |[박정은](https://www.linkedin.com/in/angelapje/)(러너)| [김채윤](https://www.linkedin.com/in/chaeyoon-kim689/)(러너) |
 정수진(러너) | 전현지(러너)  | 김은지(러너)  | 신소윤(러너)  | 최우재(러너) |
 
 ## 프로젝트 목표
