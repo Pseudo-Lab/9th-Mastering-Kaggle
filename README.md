@@ -35,13 +35,13 @@
 | 2024/09/25 | Chapter1,2,3 |[성정재]()| [Ch1~3](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch1_3.ipynb) | 
 | 2024/10/02 | 휴강 (징검다리 연휴)|  | | 
 | 2024/10/09 | 휴강 (한글날) || | 
-| 2024/10/16 | Chapter4 |[차봉준]()| | 
-| 2024/10/23 | Chapter5 |[최우재]()| | 
-| 2024/10/30 | Chapter6 |[조성우]()| | 
-| 2024/11/06 | Chapter7 |[정수진]()| | 
-| 2024/11/13 | Chapter8 |[김은지]()| | 
-| 2024/11/20 | Chapter9 |[박정은]()| | 
-| 2024/11/27 | 중간 정리 & 회고 |  | | 
+| 2024/10/16 | Chapter4 |[차봉준]()| [Ch4](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch4.ipynb) | 
+| 2024/10/23 | Chapter5 |[최우재]()| [Ch5](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch5.ipynb) | 
+| 2024/10/30 | Chapter6 |[조성우]()| [Ch6](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch6.ipynb) |
+| 2024/11/06 | 휴강 (Offline 모임) |  | | 
+| 2024/11/13 | Chapter7 |[정수진]()| | 
+| 2024/11/20 | Chapter8 |[김은지]()| | 
+| 2024/11/27 | Chapter9 |[박정은]()| | 
 | 2024/12/04 | Chapter10 |[전현지]()| | 
 | 2024/12/11 | Chapter11 |[신소윤]()| | 
 | 2024/12/18 | Chapter12 |[김채윤]()| | 
