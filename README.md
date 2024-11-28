@@ -39,7 +39,7 @@
 | 2024/10/23 | Chapter5 |[최우재]()| [Ch5](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch5.ipynb) | 
 | 2024/10/30 | Chapter6 |[조성우]()| [Ch6](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch6.ipynb) |
 | 2024/11/05 | 휴강 (Offline 모임) |  | | 
-| 2024/11/13 | Chapter7 |[정수진]()| | 
+| 2024/11/13 | Chapter7 |[정수진]()| [Ch7-3](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch7-notebook-7-3.ipynb) [Ch7-4](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch7-notebook-7-4.ipynb) [Ch7-5](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch7-notebook-7-5.ipynb) [Ch7-실전](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch7-notebook-실전문제.ipynb) | 
 | 2024/11/20 | Chapter8 |[김은지]()| | 
 | 2024/11/27 | Chapter9 |[박정은]()| | 
 | 2024/12/04 | Chapter10 |[전현지]()| | 
