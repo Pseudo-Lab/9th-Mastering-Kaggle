@@ -42,13 +42,13 @@
 | 2024/11/13 | Chapter7 |[정수진]()| [Ch7-3](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch7-notebook-7-3.ipynb) [Ch7-4](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch7-notebook-7-4.ipynb) [Ch7-5](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch7-notebook-7-5.ipynb) [Ch7-실전](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch7-notebook-실전문제.ipynb) | 
 | 2024/11/20 | Chapter8 |[김은지]()| [Ch8](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch_8_ensembles.ipynb)| 
 | 2024/11/27 | Chapter9 |[박정은]()| [Ch9](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch9-predict-future-sales.ipynb)| 
-| 2024/12/04 | Chapter10 |[전현지]()| | 
-| 2024/12/11 | Chapter11 |[신소윤]()| | 
-| 2024/12/18 | Chapter12 |[김채윤]()| | 
+| 2024/12/04 | 휴강 || | 
+| 2024/12/11 | Chapter10 |[전현지]()| | 
+| 2024/12/18 | Chapter11 |[신소윤]()| |  
 | 2024/12/25 | 휴강 (크리스마스) |  | | 
 | 2025/01/01 | 휴강 (신정) |  | | 
-| 2025/01/08 | Chapter13 |[성정재]()| | 
-| 2025/01/15 | Kaggle 경진대회 참가 |  | | 
+| 2025/01/08 | Chapter12 |[김채윤]()| |
+| 2025/01/15 | Chapter13 |[성정재]()| | 
 | 2025/01/22 | Kaggle 경진대회 참가 |  | | 
 | 2025/01/29 | Kaggle 경진대회 참가 |  | | 
 | 2025/02/05 | 최종 정리 & 회고 |  | | 
