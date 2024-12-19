@@ -43,8 +43,8 @@
 | 2024/11/20 | Chapter8 |[김은지]()| [Ch8](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch_8_ensembles.ipynb)| 
 | 2024/11/27 | Chapter9 |[박정은]()| [Ch9](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch9-predict-future-sales.ipynb)| 
 | 2024/12/04 | 휴강 || | 
-| 2024/12/11 | Chapter10 |[전현지]()| | 
-| 2024/12/18 | Chapter11 |[신소윤]()| |  
+| 2024/12/11 | Chapter10 |[전현지]()| [Ch10](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch10.pptx)| 
+| 2024/12/18 | Chapter11 |[신소윤]()| [Ch11](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch11-Aerial-Cactus-Identification.ipynb)|  
 | 2024/12/25 | 휴강 (크리스마스) |  | | 
 | 2025/01/01 | 휴강 (신정) |  | | 
 | 2025/01/08 | Chapter12 |[김채윤]()| |
