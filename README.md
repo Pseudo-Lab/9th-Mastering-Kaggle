@@ -47,9 +47,9 @@
 | 2024/12/18 | Chapter11 |[신소윤]()| [Ch11](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch11-Aerial-Cactus-Identification.ipynb)|  
 | 2024/12/25 | 휴강 (크리스마스) |  | | 
 | 2025/01/01 | 휴강 (신정) |  | | 
-| 2025/01/08 | Chapter12 |[김채윤]()| |
-| 2025/01/15 | Chapter13 |[성정재]()| | 
-| 2025/01/22 | Kaggle 경진대회 참가 |  | | 
+| 2025/01/08 | 휴강 |  | |
+| 2025/01/15 | Chapter12 |[김채윤]()|[ch12](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch12/ch12-baseline.ipynb)| 
+| 2025/01/22 | Chapter13 |[성정재]()|[ch13] [Ch11](https://github.com/Pseudo-Lab/9th-Mastering-Kaggle/blob/main/lecture/ch13/ch13-EDA_to_Model.ipynb)| 
 | 2025/01/29 | Kaggle 경진대회 참가 |  | | 
 | 2025/02/05 | 최종 정리 & 회고 |  | | 
 
